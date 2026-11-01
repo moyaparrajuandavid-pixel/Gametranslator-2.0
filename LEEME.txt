@@ -1,0 +1,14 @@
+PAQUETE WEB DE TU JUEGO
+
+Contenido: index.html (el juego), manifest.json y sw.js (para instalarlo como app), y 3 iconos.
+
+OPCION A - Publicarlo gratis con GitHub Pages (se puede desde el celular)
+1. En github.com crea un repositorio nuevo y publico.
+2. Add file > Upload files: sube TODOS los archivos de este zip (ya extraidos).
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Abre el enlace que te da GitHub en Chrome > menu (3 puntos) > Instalar app.
+
+OPCION B - Abrirlo sin instalar: abre index.html en el navegador.
+
+El juego esta configurado para jugarse en modo horizontal. Al tocar la pantalla por primera vez se pone en pantalla completa y gira solo.
+Si tu juego tiene videos pesados, index.html puede ser muy grande: para eso usa el proyecto de app Android.
